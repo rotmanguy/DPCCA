@@ -21,6 +21,9 @@ The WIW dataset (including textual and visual features) are attached with this c
 
 data/wiw_data/ - Contains .h5 files with all samples of the WIW dataset.
 
+The full dataset (including the set of images) can be downloaded from the following address:
+https://mega.nz/#!Gc0kHBTA!CYpHo_Vs2j1BIML2rlBhxFtOzzAzpkhSIeYT3rE93Go
+
 - English vectors were taken from: "Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014.
 - German vectors were taken from: Ivan Vulic and Anna Korhonen. 2016a. Is "universal ´syntax" universally useful for learning distributed representations?"
 In Proceedings of ACL, pages 518–524.
