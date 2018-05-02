@@ -17,10 +17,12 @@ pip install -r requirements.txt
 
 ### Data
 
-The WIW dataset (including textual and visual features) are attached with this code and appers in the following directory directory:
+.h5 files with all samples of the WIW dataset (including textual and visual features) are available in the following address:
+https://mega.nz/#!eV0STDTR!w6Xg248RQdzL28VOmoqsFLidJqrlSZKx7f8AGqfA204
 
-data/wiw_data/ - Contains .h5 files with all samples of the WIW dataset.
+Please unzip the data_wiw.zip file into the /data directory.
 
+# Optional
 The full dataset (including the set of images) can be downloaded from the following address:
 https://mega.nz/#!Gc0kHBTA!CYpHo_Vs2j1BIML2rlBhxFtOzzAzpkhSIeYT3rE93Go
 
