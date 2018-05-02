@@ -28,7 +28,7 @@ In Proceedings of ACL, pages 518–524.
 - Russian vectors were taken from: "Andrey Kutuzov and Igor Andreev. 2015. Texts in, meaning out: neural language models in semantic similarity task for Russian. In Proceedings of DIALOG."
 - Visual vectors were taken from: "Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014)." The visual vectors were also reduced to 300 dimensions using PCA.
 
-In order to run the models please make sure to first split the WIW dataset to train/val/test by running:
+In order to run the models please make sure to first split the WIW dataset to train/val/test by running the following command from the command line:
 python split_wiw.py
 
 ### Models
