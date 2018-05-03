@@ -1,14 +1,14 @@
 # Project Title
 
 This code implements the algorithms described in the paper:
-"Bridging Languages through Images with Deep Partial Canonical Correlation Analysis" by Guy Rotman, Ivan Vulić and Roi Reichart.
+"Bridging Languages through Images with Deep Partial Canonical Correlation Analysis" by Guy Rotman, Ivan Vulić and Roi Reichart.&nbsp;
 Please cite the paper if you are using this code.
 
 ## Prerequisites
 The code was implemented in python 3.6.3 with anaconda environment.
 All requirements are included in the requirements.txt file.
 They can be installed by running the following command from the command line:
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 
 ## Data
@@ -19,7 +19,7 @@ They can be installed by running the following command from the command line:
 Please unzip the data_wiw.zip file into the /data directory.
 
 In order to run the models please make sure to first split the WIW dataset to train/val/test by running the following command from the command line:
-'python split_wiw.py'
+`python split_wiw.py`
 
 ###### Optional
 The full dataset (including the set of images) can be downloaded from the following link:
@@ -32,7 +32,7 @@ dpcca_a.py - An implementation for Deep Partial Canonical Correlation Analysis b
 dpcca_b.py - An implementation for Deep Partial Canonical Correlation Analysis by the NOI optimization algorithm for variant B.
 
 - Each model can be executed (training + evaluation) by running the following command from the command line:
-  'python model_name.py' (e.g. 'python dpcca_a.py').
+  `python model_name.py` (e.g. `python dpcca_a.py`).
 
 - The architectures of the models are implemented in the model_architecture.py file.
 
