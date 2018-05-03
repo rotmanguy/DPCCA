@@ -54,10 +54,9 @@ The cross-lingual word retrieval task can be described as follows: Given a word 
 
 Evaluation of R@K is implemented in the retrieval_eval.py file.
 
-To train and test on the EN-DE version of WIW please modify the variable self.feats to ['eng','ger','vis'].
-To train and test on the EN-IT version of WIW please modify the variable self.feats to ['eng','it','vis'].
-To train and test on the EN-RU version of WIW please modify the variable self.feats to ['eng','ru','vis'].
-
+- To train and test on the EN-DE version of WIW please set ```python self.feats = ['eng','ger','vis']''' in the cfg.py file.
+- To train and test on the EN-IT version of WIW please set ```python self.feats = ['eng','it','vis']''' in the cfg.py file.
+- To train and test on the EN-RU version of WIW please set ```python self.feats = ['eng','ru','vis']''' in the cfg.py file.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.txt file for details
