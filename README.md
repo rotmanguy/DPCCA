@@ -28,8 +28,8 @@ The full dataset (including the set of images) can be downloaded from the follow
 ## Models
 
 The directory contains the following models:
-dpcca_a.py - An implementation for Deep Partial Canonical Correlation Analysis by the NOI optimization algorithm for variant A.
-dpcca_b.py - An implementation for Deep Partial Canonical Correlation Analysis by the NOI optimization algorithm for variant B.
+1. dpcca_a.py - An implementation for Deep Partial Canonical Correlation Analysis by the NOI optimization algorithm for variant A.
+2. dpcca_b.py - An implementation for Deep Partial Canonical Correlation Analysis by the NOI optimization algorithm for variant B.
 
 - Each model can be executed (training + evaluation) by running the following command from the command line:
   `python model_name.py` (e.g. `python dpcca_a.py`).
