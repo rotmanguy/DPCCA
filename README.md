@@ -4,15 +4,11 @@ This code implements the algorithms described in the paper:
 "Bridging Languages through Images with Deep Partial Canonical Correlation Analysis" by Guy Rotman, Ivan Vulić and Roi Reichart.
 Please cite the paper if you are using this code.
 
-## Getting Started
-
-The code was implemented in python 3.6.3 with anaconda environment.
-
 ## Prerequisites
-
+The code was implemented in python 3.6.3 with anaconda environment.
 All requirements are included in the requirements.txt file.
 They can be installed by running the following command from the command line:
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 
 ## Data
