@@ -48,7 +48,7 @@ A detailed explanation of them appears inside the file.
 
 ## Task and Evaluation
 
-###### Cross-Lingual Word Retrieval (Also known as Bilingual Lexicon Induction) 
+### Cross-Lingual Word Retrieval (Also known as Bilingual Lexicon Induction) 
 
 The cross-lingual word retrieval task can be described as follows: Given a word in one language the goal is to retrieve the correct translation of it from a lexicon of a second language.
 
@@ -62,7 +62,7 @@ To train and test on the EN-RU version of WIW please modify the variable self.fe
 
 This project is licensed under the MIT License - see the LICENSE.txt file for details
 
-## Citations
+## References
 
 - English vectors were taken from: "Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014.
 - German vectors were taken from: Ivan Vulic and Anna Korhonen. 2016a. Is "universal ´syntax" universally useful for learning distributed representations?"
