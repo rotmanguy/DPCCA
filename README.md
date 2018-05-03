@@ -79,5 +79,4 @@ In Proceedings of ACL, pages 518–524.
 - Italian vectors were taken from: "Georgiana Dinu, Angeliki Lazaridou, and Marco Baroni. 2015. Improving zero-shot learning by mitigating the hubness problem. In Proceedings of ICLR: Workshop Papers."
 - Russian vectors were taken from: "Andrey Kutuzov and Igor Andreev. 2015. Texts in, meaning out: neural language models in semantic similarity task for Russian. In Proceedings of DIALOG."
 - Visual vectors were taken from: "Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014)."
-- The original visual vectors were also reduced to 300 dimensions using PCA.
 
