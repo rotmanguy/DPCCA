@@ -16,9 +16,9 @@ They can be installed by running the following command from the command line:
 .h5 files with all samples of the WIW dataset (including textual and visual features) are available in the following link:
 [WIW Feature Set](https://mega.nz/#!eV0STDTR!w6Xg248RQdzL28VOmoqsFLidJqrlSZKx7f8AGqfA204).
 
-Please unzip the wiw_data.zip file into the /data directory.
+After downloading the "wiw_data.zip" file, please unzip it into the "data" directory.
 
-In order to run the models please make sure to first split the WIW dataset to train/val/test by running the following command from the command line:
+Lastly, in order to run the models please make sure to first split the WIW dataset to train/val/test by running the following command from the command line:
 `python split_wiw.py`
 
 ###### Optional
