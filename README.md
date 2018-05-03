@@ -57,15 +57,15 @@ Evaluation of R@K is implemented in the retrieval_eval.py file.
 - To train and test on the EN-DE version of WIW please set in the cfg.py file:
 ```python
  self.feats = ['eng','ger','vis']
-'''
+```
 - To train and test on the EN-IT version of WIW please set in the cfg.py file:
- ```python 
+```python 
 self.feats = ['eng','it','vis']
-'''
+```
 - To train and test on the EN-RU version of WIW please set in the cfg.py file:
- ```python
+```python
  self.feats = ['eng','ru','vis']'''
-'''
+```
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.txt file for details
