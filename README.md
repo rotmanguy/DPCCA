@@ -1,4 +1,4 @@
-# Project Title
+# Deep Partial Canonical Correlation Analysis ( DPCCA )
 
 This code implements the algorithms described in the paper:
 "Bridging Languages through Images with Deep Partial Canonical Correlation Analysis" by Guy Rotman, Ivan Vulić and Roi Reichart.\
