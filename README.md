@@ -69,10 +69,9 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 
 ## References
 
-- English vectors were taken from: "Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014.
-- German vectors were taken from: Ivan Vulic and Anna Korhonen. 2016a. Is "universal ´syntax" universally useful for learning distributed representations?"
-In Proceedings of ACL, pages 518–524.
+- English vectors were taken from: "Pennington, Jeffrey, Richard Socher, and Christopher Manning. 2014. Glove: Global vectors for word representation. In Proceedings of EMNLP."
+- German vectors were taken from: "Ivan Vulic and Anna Korhonen. 2014. Is "universal ´syntax" universally useful for learning distributed representations? In Proceedings of ACL, pages 518–524."
 - Italian vectors were taken from: "Georgiana Dinu, Angeliki Lazaridou, and Marco Baroni. 2015. Improving zero-shot learning by mitigating the hubness problem. In Proceedings of ICLR: Workshop Papers."
 - Russian vectors were taken from: "Andrey Kutuzov and Igor Andreev. 2015. Texts in, meaning out: neural language models in semantic similarity task for Russian. In Proceedings of DIALOG."
-- Visual vectors were taken from: "Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014)."
+- Visual vectors were taken from: "Simonyan, Karen, and Andrew Zisserman. 2014. Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556."
 
